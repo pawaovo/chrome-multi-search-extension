@@ -27,3 +27,6 @@ A Chrome extension for searching multiple websites simultaneously/同时搜索�
 1. 下载发布的zip文件
 2. 解压到本地文件夹
 3. 在Chrome选择管理扩展程序——打开发者模式——加载解压后的文件夹
+
+## 下载地址
+https://github.com/pawaovo/chrome-multi-search-extension/archive/refs/heads/main.zip
